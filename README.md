@@ -1,10 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Ikram Sabila Rasyad**.<br>
+Perkenalkan nama saya **Halilintar Daiva Dirgantara**.<br>
 
-Saya seorang **Mahasiswa Teknologi Informasi** di **Fakultas Ilmu Komputer - Universitas Brawijaya** yang memiliki ketertarikan pada Data Science - Machine Learning dan Website Developer.<br>
+Saya seorang **Mahasiswa Teknologi Informasi** di **Fakultas Ilmu Komputer - Universitas Brawijaya** yang memiliki ketertarikan pada Frontend Development.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ikram-sabila/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi [Website](https://www.halilintar.my.id/)ku ya.
 
 <p align="left">
 <a href="https://github.com/Ikram-sabila">
